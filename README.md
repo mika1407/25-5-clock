@@ -1,1 +1,1 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2756029d-075b-42ed-a00f-135f623209ab/deploy-status)](https://app.netlify.com/sites/25-5-kello/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3c12fd6-9a4d-4db0-8686-2502e96b8b83/deploy-status)](https://app.netlify.com/sites/25-5-kello/deploys)
